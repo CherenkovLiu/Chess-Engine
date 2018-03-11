@@ -1,12 +1,12 @@
 # Chess-Engine
 Open-source chess engine<br>
-Please use the Pedesis_New-generation for the newest version<br>
+Please use the Freepath.py for the newest version<br>
 
 Update Information
 ----
 
-Change the logic of the program!<br>
-Better functions with less bugs!<br>
+We are able to print the board now!<br>
+Still no checkmate detection and en passant...<br>
 
 Information for Developers and Updates
 ====
@@ -16,7 +16,7 @@ If you want to update a file or develop this project with us, please read this c
 Current Features
 ====
 
-The Pedesis Engine has following features:<br>
+The Freepath Engine has following features:<br>
 1. Generate valid moves (Not including En Passant, Check detection yet)<br>
 2. Move a piece from one place to another (Included Promotion and Castle)<br>
 3. Search the current best move using max-minize method and alpha-beta cutting<br>
